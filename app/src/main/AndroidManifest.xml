@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.dev.tt">
+
+
+
+    <application
+
+
+
+        android:allowBackup="true"
+
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name="com.dev.tt.sntns"
+            android:parentActivityName="com.dev.tt.mainMenu"
+            android:screenOrientation="portrait"/>
+        <activity android:name="com.dev.tt.Main2Activity" />
+        <activity
+            android:name="com.dev.tt.CR5"
+            android:parentActivityName="com.dev.tt.cbroot"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.dev.tt.CR4"
+            android:parentActivityName="com.dev.tt.cbroot"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.dev.tt.CR3"
+            android:parentActivityName="com.dev.tt.cbroot"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.dev.tt.CR2"
+            android:parentActivityName="com.dev.tt.cbroot"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.dev.tt.CR1"
+            android:parentActivityName="com.dev.tt.cbroot"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.dev.tt.cbroot"
+            android:parentActivityName="com.dev.tt.mainMenu"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.dev.tt.SR5"
+            android:parentActivityName="com.dev.tt.sqroot"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.dev.tt.SR4"
+            android:parentActivityName="com.dev.tt.sqroot"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.dev.tt.SR3"
+            android:parentActivityName="com.dev.tt.sqroot"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.dev.tt.SR2"
+            android:parentActivityName="com.dev.tt.sqroot"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.dev.tt.SR1"
+            android:parentActivityName="com.dev.tt.sqroot"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.dev.tt.sqroot"
+            android:parentActivityName="com.dev.tt.mainMenu"
+            android:screenOrientation="portrait" />
+        <activity android:name="com.dev.tt.ca" />
+        <activity
+            android:name="com.dev.tt.calculator"
+            android:parentActivityName="com.dev.tt.mainMenu"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.dev.tt.C5"
+            android:parentActivityName="com.dev.tt.cubes"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.dev.tt.C4"
+            android:parentActivityName="com.dev.tt.cubes"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.dev.tt.C3"
+            android:parentActivityName="com.dev.tt.cubes"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.dev.tt.C2"
+            android:parentActivityName="com.dev.tt.cubes"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.dev.tt.C1"
+            android:parentActivityName="com.dev.tt.cubes"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.dev.tt.cubes"
+            android:parentActivityName="com.dev.tt.mainMenu"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.dev.tt.S5"
+            android:parentActivityName="com.dev.tt.squares"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.dev.tt.S4"
+            android:parentActivityName="com.dev.tt.squares"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.dev.tt.S3"
+            android:parentActivityName="com.dev.tt.squares"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.dev.tt.S2"
+            android:parentActivityName="com.dev.tt.squares"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.dev.tt.S1"
+            android:parentActivityName="com.dev.tt.squares"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.dev.tt.squares"
+            android:parentActivityName="com.dev.tt.mainMenu"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.dev.tt.times_tables1"
+            android:label="@string/title_activity_times_tables1"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.dev.tt.times_tables"
+            android:parentActivityName="com.dev.tt.mainMenu"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.dev.tt.mainMenu"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.dev.tt.MainActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-5447709072361004~2951571638"/>
+
+    </application>
+
+</manifest>
