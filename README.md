@@ -8,5 +8,6 @@
 
 # Download it from Google Play Store at https://play.google.com/store/apps/details?id=com.dev.tt
 
+![alt text](https://github.com/Sarthak2601/Master-Maths/blob/master/Screenrecorder-2019-12-31-21-46-56-127.gif)
 
 
