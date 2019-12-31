@@ -10,6 +10,6 @@
 
 ![alt text](https://github.com/Sarthak2601/Master-Maths/blob/master/Screenrecorder-2019-12-31-21-46-56-127.gif) ![alt text](https://github.com/Sarthak2601/Master-Maths/blob/master/Screenrecorder-2019-12-31-21-48-15-848.gif) ![alt text](https://github.com/Sarthak2601/Master-Maths/blob/master/Screenrecorder-2019-12-31-21-49-27-230.gif) ![alt text](https://github.com/Sarthak2601/Master-Maths/blob/master/Screenrecorder-2019-12-31-21-50-35-560.gif) 
 
-Application Screenshots can be seen in the Code base. 
+# Application Screenshots can be seen in the Code base. 
 
 
