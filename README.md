@@ -4,7 +4,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](http://forthebadge.com)
 
 # It is made for helping children with quick mathematics shortcuts.It consists of various functionalities which will be helpful. 
-# Suggestions are always welcome. 
+# Suggestions are always welcome. Do star the repo if you like it. 
 
 # Download it from Google Play Store at https://play.google.com/store/apps/details?id=com.dev.tt
 
